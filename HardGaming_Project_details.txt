@@ -1,3 +1,14 @@
+
+--------------------Client information----------------- 
+Freelancer: nathanjhardee
+Gmail::  nathan.j.hardee@gmail.com 
+discord:: jadechessink#8574  
+phone:  (512) 213-6813
+Name: James hardee
+Company: HardGaming LLC
+Country: US
+Connected date: 05/09/2023
+
 ------------------------Source code-------------------------------------------------------
 https://gitlab.com/ezekielj-development-studios/hardgaming/-/tree/softwaregoat?ref_type=heads
 
@@ -12,12 +23,3 @@ user: nathan.j.hardee@gmail.com
 pass: adminjames
 
 -------------------**Hardgaming**---------------------
-
---------------------Client information----------------- 
-Freelancer: nathanjhardee
-Gmail::  nathan.j.hardee@gmail.com 
-discord:: jadechessink#8574  
-phone:  (512) 213-6813
-Name: James hardee
-Company: HardGaming LLC
-Country: US
