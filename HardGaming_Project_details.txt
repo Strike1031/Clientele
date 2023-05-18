@@ -22,4 +22,11 @@ https://api.hardgaming.tech/
 user: nathan.j.hardee@gmail.com
 pass: adminjames
 
+https://panel.hardgaming.tech/
+admin@hardgaming.tech
+adminjames
+
+Device API doc:: https://api.ptero.sh/#/
+https://docs.nodeactyl.dev/api/client.html
+
 -------------------**Hardgaming**---------------------
